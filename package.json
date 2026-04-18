@@ -1,0 +1,7 @@
+{
+  "name": "inspectdrive-payments",
+  "version": "1.0.0",
+  "dependencies": {
+    "square": "^37.1.0"
+  }
+}
